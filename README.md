@@ -5,7 +5,7 @@
 
 
 ```
-O projeto Whats4 é um similar do Whatsapp, onde o usuário coloca seu nome e o conteúdo de sua mensagem.
+O projeto Whats4 é um similar do Whatsapp.
 
 ```
 Projeto desenvolvido por:
