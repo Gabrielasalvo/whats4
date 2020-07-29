@@ -43,7 +43,7 @@ Tecnologias usadas:
 2. **Envio de mensagem:**
     - Abaixo da lista existe um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     
-    ## Contato (opcional)
+    ## Contato 
     
 <Gabriela Salvo>
     
