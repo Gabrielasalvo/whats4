@@ -49,5 +49,5 @@ Tecnologias usadas:
     
 <gabrielamdesalvo@gmail.com> :mailbox:
 
-<22-9.9944.0789>  :telephone_receiver:
+22-9.9944.0789  :telephone_receiver:
     
