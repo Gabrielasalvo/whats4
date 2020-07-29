@@ -1,4 +1,5 @@
-# whats4
+<div align="center"><img src="https://i.imgur.com/xUhQLtc.png"></img></div>
+
 
 # Projeto Whats4 :iphone:
 
