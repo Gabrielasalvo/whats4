@@ -8,7 +8,7 @@ O projeto Whats4 é um similar do Whatsapp, onde o usuário coloca seu nome e o 
 
 ```
 Projeto feito por com 
-* [Gabriela Salvo](https://github.com/gabrielasalvo) 
+* [Gabriela Salvo](https://github.com/gabrielasalvo) :heavy_check_mark:
 * [Ricardo Araújo](https://github.com/araujoricardo) :heavy_check_mark:
 
 
