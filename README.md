@@ -44,7 +44,10 @@ Tecnologias usadas:
     - Abaixo da lista existe um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     
     ## Contato (opcional)
+    
 <Gabriela Salvo>
-<gabrielamdesalvo@gmail.com>
-<22-9.9944.0789>
+    
+<gabrielamdesalvo@gmail.com> :mailbox:
+
+<22-9.9944.0789>  :telephone_receiver:
     
