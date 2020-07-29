@@ -7,7 +7,7 @@
 O projeto Whats4 é um similar do Whatsapp, onde o usuário coloca seu nome e o conteúdo de sua mensagem.
 
 ```
-Projeto feito em parceria com [Ricardo Araújo](https://github.com/araujoricardo) :heavy_check_mark:
+Projeto feito por com [Gabriela Salvo](https://github.com/gabrielasalvo) [Ricardo Araújo](https://github.com/araujoricardo) :heavy_check_mark:
 
 
 Tecnologias usadas:
